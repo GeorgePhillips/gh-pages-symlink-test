@@ -31,3 +31,4 @@ The key is to place a empty file `.nojekyll` in root folder of `gh-pages`.
 <http://sidnicious.github.io/gh-pages-symlink-test/docs/hello/>
 
 [Any questions](https://github.com/Sidnicious/gh-pages-symlink-test/issues)?
+
